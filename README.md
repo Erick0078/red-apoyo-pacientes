@@ -34,7 +34,7 @@ Brindar un espacio digital donde pacientes puedan crear campañas de apoyo econ�
 ## Tecnologías Utilizadas
 
 - **Lenguaje:** Java (JSP / Servlets)  
-- **Base de Datos:** MySQL  
+- **Base de Datos:** PostgreSQL y MongoDB  
 - **Framework:** Spring (opcional)  
 - **Servidor:** Apache Tomcat  
 - **IDE:** NetBeans / IntelliJ IDEA  
