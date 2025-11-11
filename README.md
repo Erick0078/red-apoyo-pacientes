@@ -13,7 +13,8 @@ Brindar un espacio digital donde pacientes puedan crear campañas de apoyo econ�
 ## Fases y Documentación
 
 - **Fase de Inicio:** Definición del alcance, stakeholders, historias de usuario y cronograma.  
-  📄 [Ver documento](./Documentacion/Fase_Inicio_2.0.docx)
+[📄 Fase de Inicio](./documentacion/Fase%20de%20Inicio%202.0.docx)
+
 
 - **Especificación de Requerimientos:** Requerimientos funcionales, no funcionales, de interfaz y calidad.  
   📄 [Ver documento](./documentacion/Especificacion_Requerimientos.docx)
