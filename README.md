@@ -12,15 +12,12 @@ Brindar un espacio digital donde pacientes puedan crear campañas de apoyo econ�
 
 ## Fases y Documentación
 
-- **Fase de Inicio:** Definición del alcance, stakeholders, historias de usuario y cronograma.  
-[📄 Fase de Inicio](./documentacion/Fase%20de%20Inicio%202.0.docx)
+| Fase | Documento |
+|------|------------|
+| **Inicio** | [Fase de Inicio 2.0](./Documentacion/Fase%20de%20Inicio%202.0.docx) |
+| **Diseño** | [Entregable #3](./Documentacion/Entregable%20%233.docx) |
+| **Proyecto Integrador** | [Proyecto Red de Apoyo a Pacientes con Enfermedades de Alto Costo](./Documentacion/Proyecto%20Red%20de%20Apoyo%20a%20Pacientes%20con%20Enfermedades%20de%20Alto%20Costo.docx) |
 
-
-- **Especificación de Requerimientos:** Requerimientos funcionales, no funcionales, de interfaz y calidad.  
-  📄 [Ver documento](./documentacion/Especificacion_Requerimientos.docx)
-
-- **Diagramas UML:** Casos de uso, modelo de dominio y diseño arquitectónico.  
-  📁 [Carpeta de diagramas](./documentacion/Diagramas)
 
 ---
 
