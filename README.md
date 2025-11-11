@@ -52,7 +52,7 @@ Brindar un espacio digital donde pacientes puedan crear campañas de apoyo econ�
 - Julio Henríquez  
 
 **Universidad Autónoma del Caribe**  
-**Ingeniería de Software — 2025**
+**Ingeniería de Sistemas — 2025**
 
 ---
 
